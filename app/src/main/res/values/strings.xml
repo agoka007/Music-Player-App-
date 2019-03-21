@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MusicPlayerApp</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="playlists">Playlists</string>
+    <string name="albums">Albums</string>
+    <string name="songs">Songs</string>
+    <string name="song_name">Gorillaz-Feel Good Inc.</string>
+</resources>
